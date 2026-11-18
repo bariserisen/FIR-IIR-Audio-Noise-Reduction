@@ -120,7 +120,7 @@ The implementation includes:
 1. Download or clone this repository.
 2. Open MATLAB.
 3. Navigate to the project directory.
-4. Open `dsp_project.m`.
+4. Open `dsp.m`.
 5. Run the script.
 
 The program generates numerical results, filter coefficients, and visualizations.
